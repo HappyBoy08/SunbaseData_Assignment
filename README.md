@@ -18,7 +18,8 @@ Add Cutomer:
 
 Delete Customer :
 
-![Uploading Delete customer.png…]()
+![Delete customer](https://github.com/HappyBoy08/SunbaseData_Assignment/assets/114865567/1150bab0-1ef6-4d1d-94e5-c1da9698d27a)
+
 
 Update Customer:
 
